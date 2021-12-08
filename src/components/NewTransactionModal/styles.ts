@@ -1,5 +1,3 @@
 import styled from "styled-components";
 
-export const Container = styled.div`
-  color: var(--blue);
-`;
+export const Container = styled.form``;
